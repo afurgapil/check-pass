@@ -1,0 +1,47 @@
+{
+  "Settings": {
+    "userCycle": "Dein Zyklus: {{cycleDuration}} Tage",
+    "setCycle": "Zyklusdauer festlegen",
+    "userNextDate": "Dein nächstes Kontrolldatum:",
+    "time": "Verbleibende Zeit für die Überprüfung:",
+    "updateDate": "Aktualisiere dein Kontrolldatum",
+    "del1": "Du bist dabei, deinen Account mit allen Daten permanent zu löschen.",
+    "del2": "Bist du sicher?",
+    "del3": "Abbrechen",
+    "del4": "Account löschen"
+  },
+  "Home": {
+    "noItem": "Derzeit hast du keine Einträge.",
+    "addNow": "Jetzt hinzufügen!",
+    "addNewEntry": "Neuen Eintrag hinzufügen:",
+    "addReceiver": "Zusätzlichen Empfänger hinzufügen",
+    "addEntry": "Eintrag hinzufügen",
+    "enterName": "Geben Sie den Eintragnamen ein",
+    "enterValue": "Geben Sie den Eintragswert ein",
+    "enterReceiver": "Empfänger-E-Mail eingeben",
+    "minimum": "Sie müssen mindestens 1 Empfänger hinzufügen",
+    "edit": "Eintrag bearbeiten"
+  },
+  "Main": {
+    "home": "Startseite",
+    "settings": "Einstellungen",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren"
+  },
+  "SignIn": {
+    "username": "Benutzername",
+    "password": "Passwort",
+    "btn": "Anmelden",
+    "rememberMe": "Erinnere dich an mich",
+    "red": "Du hast noch keinen Account?",
+    "under": "Registrieren"
+  },
+  "SignUp": {
+    "username": "Benutzername",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "btn": "Registrieren",
+    "red": "Du hast noch keinen Account?",
+    "under": "Anmelden"
+  }
+}

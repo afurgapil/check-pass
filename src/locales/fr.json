@@ -1,0 +1,47 @@
+{
+  "Settings": {
+    "userCycle": "Votre Cycle : {{cycleDuration}} Jour",
+    "setCycle": "Définir la Durée du Cycle",
+    "userNextDate": "Votre Prochaine Date de Contrôle :",
+    "time": "Temps Restant Pour la Vérification :",
+    "updateDate": "Mettez à Jour la Date de Contrôle",
+    "del1": "Vous êtes sur le point de supprimer définitivement votre compte avec toutes les données.",
+    "del2": "Êtes-vous sûr(e) ?",
+    "del3": "Annuler",
+    "del4": "Supprimer le Compte"
+  },
+  "Home": {
+    "noItem": "Vous n'avez actuellement aucun élément.",
+    "addNow": "Ajouter maintenant !",
+    "addNewEntry": "Ajouter une Nouvelle Entrée :",
+    "addReceiver": "Ajouter un destinataire supplémentaire",
+    "addEntry": "Ajouter une Entrée",
+    "enterName": "Entrez le nom de l'entrée",
+    "enterValue": "Entrez la valeur de l'entrée",
+    "enterReceiver": "Entrez l'E-mail du destinataire",
+    "minimum": "Vous devez ajouter au moins 1 destinataire",
+    "edit": "Modifier l'entrée"
+  },
+  "Main": {
+    "home": "Accueil",
+    "settings": "Paramètres",
+    "signIn": "Se Connecter",
+    "signUp": "S'Inscrire"
+  },
+  "SignIn": {
+    "username": "Nom d'Utilisateur",
+    "password": "Mot de Passe",
+    "btn": "Se Connecter",
+    "rememberMe": "Se Souvenir de Moi",
+    "red": "Vous n'avez pas de compte ?",
+    "under": "S'Inscrire"
+  },
+  "SignUp": {
+    "username": "Nom d'Utilisateur",
+    "email": "E-mail",
+    "password": "Mot de Passe",
+    "btn": "S'Inscrire",
+    "red": "Vous n'avez pas de compte ?",
+    "under": "Se Connecter"
+  }
+}

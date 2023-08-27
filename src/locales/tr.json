@@ -1,0 +1,47 @@
+{
+  "Settings": {
+    "userCycle": "Döngünüz: {{cycleDuration}} Gün",
+    "setCycle": "Döngü Süresini Belirle",
+    "userNextDate": "Bir Sonraki Kontrol Tarihiniz:",
+    "time": "Kontrol İçin Kalan Zaman:",
+    "updateDate": "Kontrol tarihinizi güncelleyin",
+    "del1": "Hesabınızı tüm verileriyle kalıcı olarak silmek üzeresiniz.",
+    "del2": "Emin misiniz?",
+    "del3": "İptal",
+    "del4": "Hesabı Sil"
+  },
+  "Home": {
+    "noItem": "Şu anda herhangi bir girişiniz bulunmuyor",
+    "addNow": "Şimdi Ekle!",
+    "addNewEntry": "Yeni Giriş Ekle:",
+    "addReceiver": "Ekstra alıcı ekle",
+    "addEntry": "Giriş Ekle",
+    "enterName": "Giriş adını girin",
+    "enterValue": "Giriş değerini girin",
+    "enterReceiver": "Alıcı E-posta girin",
+    "minimum": "En az 1 alıcı eklemelisiniz",
+    "edit": "Girişi Düzenle"
+  },
+  "Main": {
+    "home": "Anasayfa",
+    "settings": "Ayarlar",
+    "signIn": "Giriş Yap",
+    "signUp": "Kayıt Ol"
+  },
+  "SignIn": {
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "btn": "Giriş Yap",
+    "rememberMe": "Beni Hatırla",
+    "red": "Hesabınız yok mu?",
+    "under": "Kayıt Ol"
+  },
+  "SignUp": {
+    "username": "Kullanıcı Adı",
+    "email": "E-Posta",
+    "password": "Şifre",
+    "btn": "Kayıt Ol",
+    "red": "Hesabınız yok mu?",
+    "under": "Giriş Yap"
+  }
+}

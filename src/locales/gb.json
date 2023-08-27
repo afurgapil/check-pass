@@ -1,0 +1,47 @@
+{
+  "Settings": {
+    "userCycle": "Your Cycle: {{cycleDuration}} Day",
+    "setCycle": "Set Cycle Duration",
+    "userNextDate": "Your Next Control Date:",
+    "time": "Remaining Time For Check:",
+    "updateDate": "Update your control date",
+    "del1": "You are about to permanently delete your account with all data.",
+    "del2": "Are you sure?",
+    "del3": "Cancel",
+    "del4": "Delete Account"
+  },
+  "Home": {
+    "noItem": "You have not any Entry for now",
+    "addNow": "Add Now!",
+    "addNewEntry": "Add New Entry:",
+    "addReceiver": "Add extra receiver",
+    "addEntry": "Add Entry",
+    "enterName": "Enter Entry name",
+    "enterValue": "Enter Entry value",
+    "enterReceiver": "Enter Receiver Mail",
+    "minimum": "You must add at least 1 receiver",
+    "edit": "Edit Entry"
+  },
+  "Main": {
+    "home": "Home",
+    "settings": "Settings",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "SignIn": {
+    "username": "Username",
+    "password": "Password",
+    "btn": "Sign In",
+    "rememberMe": "Remember Me",
+    "red": "Don't have an account?",
+    "under": "Sign Up"
+  },
+  "SignUp": {
+    "username": "Username",
+    "email": "E-Mail",
+    "password": "Password",
+    "btn": "Sign Up",
+    "red": "Don't have an account?",
+    "under": "Sign In"
+  }
+}
