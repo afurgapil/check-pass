@@ -3,7 +3,7 @@
 This project is designed to provide users with a secure and efficient platform for storing sensitive data while ensuring its accuracy through a periodic verification process. With a focus on data privacy and security, this project offers a user-friendly experience for managing crucial information.
 
 <div align="center">
- <a display="none" href="https://deviceframes.com/templates/"> <img src="https://github.com/afurgapil/check-pass/assets/99171546/68e5899f-c88d-4619-8170-f22cebaa5c91" alt="Live Preview"></a>
+ <a display="none" href="https://deviceframes.com/templates/"> <img src="https://github.com/afurgapil/check-pass/assets/99171546/3a2ce33d-17b2-44ed-8d44-efaf6bb465c9" alt="Live Preview"></a>
 </div>
 </div>
 
